@@ -10,12 +10,14 @@ public class PointMainStaticDraw_v3_KEY {
         p1.x = 15;
         p1.y = 37;
 
-        //p1.draw(g);
+        p1.toString();
+        p1.draw(g);
 
         Point p2 = new Point();
         p2.x = 51;
         p2.y = 79;
 
-        //p2.draw(g);
+        p2.toString();
+        p2.draw(g);
     }
 }

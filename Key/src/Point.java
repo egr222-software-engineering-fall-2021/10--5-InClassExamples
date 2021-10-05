@@ -1,10 +1,9 @@
 import java.awt.*;
 
-public class Point_KEY {
+public class Point {
     int x;
     int y;
 
-/*
     public Point() {
         this(0,0);
     }
@@ -47,6 +46,4 @@ public class Point_KEY {
     public String toString() {
         return "(" + this.x + ", " + this.y + ")";
     }
- */
-
 }
